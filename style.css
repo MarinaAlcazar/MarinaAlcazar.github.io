@@ -372,6 +372,12 @@ a:active {
         font-size: 0.7rem;
     }
 
+    /* ---------- Teaching ---------- */
+   
+    .teaching-section {
+        min-height: 65vh;
+    }
+
     /* ---------- Footer ---------- */
 
     .footer-container {
