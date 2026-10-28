@@ -144,6 +144,24 @@ nav a:hover {
     margin-top: 40px;
 }
 
+/* ---------- Bullet points ---------- */
+
+.project ul li {
+    margin-bottom: 12px;
+}
+
+.project ul ul li {
+    margin-bottom: 12px;
+}
+
+.project > ul > li > ul {
+    margin-top: 12px;
+}
+
+.project .report-link {
+    display: inline-block;
+    margin-top: 12px;
+}
 /* ==========================
    FOOTER
 ========================== */
@@ -377,6 +395,7 @@ a:active {
     .teaching-section {
         min-height: 65vh;
     }
+
 
     /* ---------- Footer ---------- */
 
